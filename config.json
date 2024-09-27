@@ -11,12 +11,7 @@
     "PLATFORM_SIZE": "256",
     "extraOptions": [
         "SKIP_HITAG",
-        "SKIP_ICLASS",
-        "SKIP_FELICA",
-        "SKIP_LEGICRF",
-        "SKIP_ISO14443b",
-        "SKIP_EM4x50",
-        "SKIP_NFCBARCODE"
+        "SKIP_ICLASS"
     ],
     "extraLines": [],
     "buildS19": true,
